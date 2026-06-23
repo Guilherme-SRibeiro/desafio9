@@ -40,7 +40,7 @@ Projeto_crud/
 
 1. **Clone o repositório:**
    \```bash
-   git clone https://github.com/SEU_USUARIO/Projeto_crud.git
+   https://github.com/Guilherme-SRibeiro/desafio9.git
    cd Projeto_crud
    \```
 
