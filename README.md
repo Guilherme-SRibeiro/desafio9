@@ -39,7 +39,6 @@ Projeto_crud/
 ### Passo a Passo
 
 1. **Clone o repositório:**
-   \```bash
    https://github.com/Guilherme-SRibeiro/desafio9.git
    cd Projeto_crud
    \```
