@@ -51,11 +51,11 @@ Projeto_crud/
 3. **Configure a conexão** em `classes/Database.php` se necessário (host, usuário, senha).
 
 4. **Inicie o servidor:**
-   \```bash
+   \```
    php -S localhost:8000
    \```
 
-5. **Acesse no navegador:** `http://localhost:8000`
+5. **Acesse no navegador:** `localhost/desafio9`
 
 ## Tecnologias Utilizadas
 
@@ -63,4 +63,3 @@ Projeto_crud/
 - PDO (PHP Data Objects)
 - MySQL
 - HTML5 / CSS3
-- Sessões PHP
